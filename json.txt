@@ -1,0 +1,12 @@
+Hei, 
+Dette er oppdatert valuaverdier mot Norske kroner.
+
+Date:2022-12-07
+base: NOK
+GBP: 0.081743
+EUR: 0.094944
+USD: 0.099778
+
+Med vennlig hilsen 
+
+Mostafa Mohammedi
