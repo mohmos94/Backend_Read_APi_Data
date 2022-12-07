@@ -6,8 +6,11 @@ Dette er et backend prosjekt som leser fixer.io sitt latest rate endpoint og ret
 <br/>
 
 CREATE TABLE Base (
+<br/>
 dates varchar(33),
+<br/>
 base varchar(33),
+<br/>
 amount float
 );
 
